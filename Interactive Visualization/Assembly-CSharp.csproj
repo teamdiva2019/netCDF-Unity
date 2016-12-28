@@ -46,7 +46,14 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\PlaneScript.cs" />
+     <Compile Include="Assets\Scripts\SphereScript.cs" />
+     <Compile Include="Assets\Test Scripts\Test Scripts\CSVReadTest.cs" />
+     <Compile Include="Assets\Test Scripts\Test Scripts\Properties\AssemblyInfo.cs" />
+     <Compile Include="Assets\Test Scripts\Test Scripts\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+     <Compile Include="Assets\Test Scripts\Test Scripts\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+     <Compile Include="Assets\Test Scripts\Test Scripts\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
      <None Include="Assets\Shaders\ImageShader.shader" />
+     <None Include="Assets\Test Scripts\Test Scripts\obj\Debug\Test Scripts.csproj.FileListAbsolute.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>

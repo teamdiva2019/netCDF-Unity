@@ -4,3 +4,7 @@ A word of recommendation: If anyone checks this out and decides to work on it, i
 Also if anyone is interested in checking out the Roll a Ball Tutorial given on the Unity site that folder is there as well.
 
 ~README created by Mughil~
+
+
+12.28.16
+I messed around with spherical coordinates a bit and created a scene called SphereCoordsTest in netCDF-Unity/Interactive Visualization/Assets/_Scenes. You guys are welcome to check it out. It uses a Script I wrote that can be found in */Assets/Scripts. ~Naeem

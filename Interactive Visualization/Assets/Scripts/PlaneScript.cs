@@ -17,15 +17,15 @@ public class PlaneScript : MonoBehaviour {
 		Process proc = new Process {
 			StartInfo = new ProcessStartInfo {
 				FileName = "python.exe",
-				Arguments = "\"C:\\Users\\mughi\\Documents\\Unity Projects\\Interactive Visualization\\Assets\\ReadnCDF\\PlotData.py\"", // Change this to the full path
+				Arguments = "\"..\\ReadnCDF\\PlotData.py\"", // Change this to the full path
 				UseShellExecute = false,
 				RedirectStandardOutput = true,
 				CreateNoWindow = true
 			}
 		};
 		// Delete the time.txt if it's there
-		string imageString = "\"C:\\Users\\mughi\\Documents\\Unity Projects\\Interactive Visualization\\Assets\\Resources\\Plot.png\"";
-		File.Delete("\"C:\\Users\\mughi\\Documents\\Unity Projects\\Interactive Visualization\\Assets\\ReadnCDF\\time.txt\"");
+		string imageString = "\"..\\Resources\\Plot.png\"";
+		// File.Delete("\"..\\ReadnCDF\\time.txt\""); // what happens if I take this line out?
 		proc.Start ();
 		proc.Close ();
 
