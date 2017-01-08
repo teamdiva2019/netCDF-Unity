@@ -8,3 +8,7 @@ Also if anyone is interested in checking out the Roll a Ball Tutorial given on t
 
 12.28.16
 I messed around with spherical coordinates a bit and created a scene called SphereCoordsTest in netCDF-Unity/Interactive Visualization/Assets/_Scenes. You guys are welcome to check it out. It uses a Script I wrote that can be found in */Assets/Scripts. ~Naeem
+
+1.8.16
+Tried to fiddle around with having to read netCDF with C# but to no avail, even with all of the converted .dll's from the .jar library and through IKVM (a method to convert .jar to .dll). Thus, I plan to transition to using Javascript mode. I added a skeleon Javascript file and the .dll's I used.
+~Mughil

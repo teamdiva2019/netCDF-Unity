@@ -50,11 +50,7 @@
      <Compile Include="Assets\Scripts\SphereScript.cs" />
      <Compile Include="Assets\Test Scripts\Test Scripts\CSVReadTest.cs" />
      <Compile Include="Assets\Test Scripts\Test Scripts\Properties\AssemblyInfo.cs" />
-     <Compile Include="Assets\Test Scripts\Test Scripts\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
-     <Compile Include="Assets\Test Scripts\Test Scripts\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
-     <Compile Include="Assets\Test Scripts\Test Scripts\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
      <None Include="Assets\Shaders\ImageShader.shader" />
-     <None Include="Assets\Test Scripts\Test Scripts\obj\Debug\Test Scripts.csproj.FileListAbsolute.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
@@ -63,6 +59,90 @@
  </Reference>
  <Reference Include="UnityEngine.Analytics">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="IKVM.OpenJDK.Tools">
+ <HintPath>C:/Users/mughi/Documents/Unity Projects/netCDF-Unity/Interactive Visualization/Assets/Plugins/IKVM.OpenJDK.Tools.dll</HintPath>
+ </Reference>
+ <Reference Include="IKVM.OpenJDK.Corba">
+ <HintPath>C:/Users/mughi/Documents/Unity Projects/netCDF-Unity/Interactive Visualization/Assets/Plugins/IKVM.OpenJDK.Corba.dll</HintPath>
+ </Reference>
+ <Reference Include="IKVM.OpenJDK.Remoting">
+ <HintPath>C:/Users/mughi/Documents/Unity Projects/netCDF-Unity/Interactive Visualization/Assets/Plugins/IKVM.OpenJDK.Remoting.dll</HintPath>
+ </Reference>
+ <Reference Include="IKVM.AWT.WinForms">
+ <HintPath>C:/Users/mughi/Documents/Unity Projects/netCDF-Unity/Interactive Visualization/Assets/Plugins/IKVM.AWT.WinForms.dll</HintPath>
+ </Reference>
+ <Reference Include="IKVM.OpenJDK.Misc">
+ <HintPath>C:/Users/mughi/Documents/Unity Projects/netCDF-Unity/Interactive Visualization/Assets/Plugins/IKVM.OpenJDK.Misc.dll</HintPath>
+ </Reference>
+ <Reference Include="IKVM.OpenJDK.XML.Parse">
+ <HintPath>C:/Users/mughi/Documents/Unity Projects/netCDF-Unity/Interactive Visualization/Assets/Plugins/IKVM.OpenJDK.XML.Parse.dll</HintPath>
+ </Reference>
+ <Reference Include="IKVM.OpenJDK.Media">
+ <HintPath>C:/Users/mughi/Documents/Unity Projects/netCDF-Unity/Interactive Visualization/Assets/Plugins/IKVM.OpenJDK.Media.dll</HintPath>
+ </Reference>
+ <Reference Include="IKVM.OpenJDK.XML.WebServices">
+ <HintPath>C:/Users/mughi/Documents/Unity Projects/netCDF-Unity/Interactive Visualization/Assets/Plugins/IKVM.OpenJDK.XML.WebServices.dll</HintPath>
+ </Reference>
+ <Reference Include="IKVM.Reflection">
+ <HintPath>C:/Users/mughi/Documents/Unity Projects/netCDF-Unity/Interactive Visualization/Assets/Plugins/IKVM.Reflection.dll</HintPath>
+ </Reference>
+ <Reference Include="IKVM.OpenJDK.Naming">
+ <HintPath>C:/Users/mughi/Documents/Unity Projects/netCDF-Unity/Interactive Visualization/Assets/Plugins/IKVM.OpenJDK.Naming.dll</HintPath>
+ </Reference>
+ <Reference Include="ICSharpCode.SharpZipLib">
+ <HintPath>C:/Users/mughi/Documents/Unity Projects/netCDF-Unity/Interactive Visualization/Assets/Plugins/ICSharpCode.SharpZipLib.dll</HintPath>
+ </Reference>
+ <Reference Include="IKVM.OpenJDK.Management">
+ <HintPath>C:/Users/mughi/Documents/Unity Projects/netCDF-Unity/Interactive Visualization/Assets/Plugins/IKVM.OpenJDK.Management.dll</HintPath>
+ </Reference>
+ <Reference Include="IKVM.OpenJDK.Jdbc">
+ <HintPath>C:/Users/mughi/Documents/Unity Projects/netCDF-Unity/Interactive Visualization/Assets/Plugins/IKVM.OpenJDK.Jdbc.dll</HintPath>
+ </Reference>
+ <Reference Include="IKVM.OpenJDK.Beans">
+ <HintPath>C:/Users/mughi/Documents/Unity Projects/netCDF-Unity/Interactive Visualization/Assets/Plugins/IKVM.OpenJDK.Beans.dll</HintPath>
+ </Reference>
+ <Reference Include="IKVM.OpenJDK.Core">
+ <HintPath>C:/Users/mughi/Documents/Unity Projects/netCDF-Unity/Interactive Visualization/Assets/Plugins/IKVM.OpenJDK.Core.dll</HintPath>
+ </Reference>
+ <Reference Include="IKVM.OpenJDK.XML.Bind">
+ <HintPath>C:/Users/mughi/Documents/Unity Projects/netCDF-Unity/Interactive Visualization/Assets/Plugins/IKVM.OpenJDK.XML.Bind.dll</HintPath>
+ </Reference>
+ <Reference Include="netcdfAll-4.6.7">
+ <HintPath>C:/Users/mughi/Documents/Unity Projects/netCDF-Unity/Interactive Visualization/Assets/Plugins/netcdfAll-4.6.7.dll</HintPath>
+ </Reference>
+ <Reference Include="IKVM.OpenJDK.Security">
+ <HintPath>C:/Users/mughi/Documents/Unity Projects/netCDF-Unity/Interactive Visualization/Assets/Plugins/IKVM.OpenJDK.Security.dll</HintPath>
+ </Reference>
+ <Reference Include="IKVM.OpenJDK.Util">
+ <HintPath>C:/Users/mughi/Documents/Unity Projects/netCDF-Unity/Interactive Visualization/Assets/Plugins/IKVM.OpenJDK.Util.dll</HintPath>
+ </Reference>
+ <Reference Include="IKVM.Runtime">
+ <HintPath>C:/Users/mughi/Documents/Unity Projects/netCDF-Unity/Interactive Visualization/Assets/Plugins/IKVM.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="IKVM.OpenJDK.SwingAWT">
+ <HintPath>C:/Users/mughi/Documents/Unity Projects/netCDF-Unity/Interactive Visualization/Assets/Plugins/IKVM.OpenJDK.SwingAWT.dll</HintPath>
+ </Reference>
+ <Reference Include="IKVM.OpenJDK.XML.Transform">
+ <HintPath>C:/Users/mughi/Documents/Unity Projects/netCDF-Unity/Interactive Visualization/Assets/Plugins/IKVM.OpenJDK.XML.Transform.dll</HintPath>
+ </Reference>
+ <Reference Include="IKVM.Runtime.JNI">
+ <HintPath>C:/Users/mughi/Documents/Unity Projects/netCDF-Unity/Interactive Visualization/Assets/Plugins/IKVM.Runtime.JNI.dll</HintPath>
+ </Reference>
+ <Reference Include="IKVM.OpenJDK.XML.Crypto">
+ <HintPath>C:/Users/mughi/Documents/Unity Projects/netCDF-Unity/Interactive Visualization/Assets/Plugins/IKVM.OpenJDK.XML.Crypto.dll</HintPath>
+ </Reference>
+ <Reference Include="IKVM.OpenJDK.Charsets">
+ <HintPath>C:/Users/mughi/Documents/Unity Projects/netCDF-Unity/Interactive Visualization/Assets/Plugins/IKVM.OpenJDK.Charsets.dll</HintPath>
+ </Reference>
+ <Reference Include="IKVM.OpenJDK.XML.XPath">
+ <HintPath>C:/Users/mughi/Documents/Unity Projects/netCDF-Unity/Interactive Visualization/Assets/Plugins/IKVM.OpenJDK.XML.XPath.dll</HintPath>
+ </Reference>
+ <Reference Include="IKVM.OpenJDK.XML.API">
+ <HintPath>C:/Users/mughi/Documents/Unity Projects/netCDF-Unity/Interactive Visualization/Assets/Plugins/IKVM.OpenJDK.XML.API.dll</HintPath>
+ </Reference>
+ <Reference Include="IKVM.OpenJDK.Text">
+ <HintPath>C:/Users/mughi/Documents/Unity Projects/netCDF-Unity/Interactive Visualization/Assets/Plugins/IKVM.OpenJDK.Text.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
